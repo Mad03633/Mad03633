@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Telegram Badge](https://img.shields.io/badge/-YarovitsynEgor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mad03633) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:madiyar03633@gmail.com) 
+[![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Mad03633) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:madiyar03633@gmail.com) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/madiyar.bolatov.94/ ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiyar-bolatov-01920b309/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Mad03633) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27038903) 
 
 # 💻 Tech Stack:
